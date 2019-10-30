@@ -1,0 +1,15 @@
+C:\Users\home\source\repos\Shop.kz\Shop.Services\bin\Debug\netcoreapp3.0\Shop.Services.Abstract.dll
+C:\Users\home\source\repos\Shop.kz\Shop.Services\obj\Debug\netcoreapp3.0\Shop.Services.csprojAssemblyReference.cache
+C:\Users\home\source\repos\Shop.kz\Shop.Services\obj\Debug\netcoreapp3.0\Shop.Services.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\Shop.kz\Shop.Services\obj\Debug\netcoreapp3.0\Shop.Services.AssemblyInfo.cs
+C:\Users\home\source\repos\Shop.kz\Shop.Services\bin\Debug\netcoreapp3.0\Shop.Services.deps.json
+C:\Users\home\source\repos\Shop.kz\Shop.Services\bin\Debug\netcoreapp3.0\Shop.Services.dll
+C:\Users\home\source\repos\Shop.kz\Shop.Services\bin\Debug\netcoreapp3.0\Shop.Services.pdb
+C:\Users\home\source\repos\Shop.kz\Shop.Services\bin\Debug\netcoreapp3.0\Shop.DataAccess.dll
+C:\Users\home\source\repos\Shop.kz\Shop.Services\bin\Debug\netcoreapp3.0\Shop.Domain.dll
+C:\Users\home\source\repos\Shop.kz\Shop.Services\bin\Debug\netcoreapp3.0\Shop.DataAccess.pdb
+C:\Users\home\source\repos\Shop.kz\Shop.Services\bin\Debug\netcoreapp3.0\Shop.Services.Abstract.pdb
+C:\Users\home\source\repos\Shop.kz\Shop.Services\bin\Debug\netcoreapp3.0\Shop.Domain.pdb
+C:\Users\home\source\repos\Shop.kz\Shop.Services\obj\Debug\netcoreapp3.0\Shop.Services.csproj.CopyComplete
+C:\Users\home\source\repos\Shop.kz\Shop.Services\obj\Debug\netcoreapp3.0\Shop.Services.dll
+C:\Users\home\source\repos\Shop.kz\Shop.Services\obj\Debug\netcoreapp3.0\Shop.Services.pdb
